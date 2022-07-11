@@ -1,3 +1,3 @@
-# Streamlit-App
-## Practice app made with streamlit
-These is an app created with streamlit for currency conversation
+# Temperature-Coversion-App
+## App for temperature conversion, Celsius, Fahrenheit and Kelvin
+These is an app created with streamlit for temperature conversation
